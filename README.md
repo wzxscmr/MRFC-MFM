@@ -7,3 +7,7 @@ This repository contains `R` code for *A Bayesian Semiparametric Spatial Model f
 `Functions_wzx.R` contains some necessary functions used in the paper.
 
 `Example_wzx.R` contains a simulated example.
+
+`countyadj.csv` is the adjacency matrix for all the Texas counties.
+
+The fourth column of `123.xlsx` shows one possible cluster configuration for the Texas counties.
